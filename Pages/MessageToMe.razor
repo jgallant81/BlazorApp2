@@ -1,0 +1,27 @@
+@page "/MessageToMe"
+
+<h1>Message to Me</h1>
+
+<p>This is a test of adding a new static page</p>
+
+<p>@msgtome</p>
+
+<button class="btn btn-primary" @onclick="TellMe">Tell Me</button>
+
+@code {
+    private string msgtome = "";
+
+    private void TellMe()
+    {
+        
+        if (DateTime.Now.ToString("tt") == "AM")
+            {
+                msgtome = "Good morning Jim.  Have a great day!  " + DateTime.Now;
+            }
+        else
+        {
+            msgtome = "Good evening Jim.  Have a good night!  " + DateTime.Now;
+        }
+           
+    }
+}

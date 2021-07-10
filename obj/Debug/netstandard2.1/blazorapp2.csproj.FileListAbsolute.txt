@@ -178,7 +178,6 @@ C:\code\blazorapp2\obj\Debug\netstandard2.1\Razor\_Imports.razor.g.cs
 C:\code\blazorapp2\obj\Debug\netstandard2.1\blazorapp2.RazorTargetAssemblyInfo.cache
 C:\code\blazorapp2\obj\Debug\netstandard2.1\blazorapp2.csproj.CopyComplete
 C:\code\blazorapp2\obj\Debug\netstandard2.1\blazor\unlinked.output
-C:\code\blazorapp2\obj\Debug\netstandard2.1\integrity\a9k5D4-TvHqS5tsik7YjaqQJlkB72yXrtnUDiciIAA0=.hash
 C:\code\blazorapp2\obj\Debug\netstandard2.1\integrity\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
 C:\code\blazorapp2\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
 C:\code\blazorapp2\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
@@ -230,13 +229,11 @@ C:\code\blazorapp2\obj\Debug\netstandard2.1\integrity\zNP4aHLW-rhi6gW72YV8xGy1rL
 C:\code\blazorapp2\obj\Debug\netstandard2.1\integrity\oAIlpv09S-0jXnze744E1V88Oaw8Ql1x3Alw0hsVYdw=.hash
 C:\code\blazorapp2\obj\Debug\netstandard2.1\integrity\K3dpli228kQQ75WVqoiIdmn8u8q8gZHixcWDdCHCRgU=.hash
 C:\code\blazorapp2\obj\Debug\netstandard2.1\integrity\dwm_rKImjhxtOmHHVpSxOgl2oh2R26xOWihLaZSv7Vs=.hash
-C:\code\blazorapp2\obj\Debug\netstandard2.1\integrity\8wg63kzFMuYfytVx9bAK5eBPjz52tJGi7OGiwkc3TmQ=.hash
 C:\code\blazorapp2\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 C:\code\blazorapp2\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 C:\code\blazorapp2\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
 C:\code\blazorapp2\obj\Debug\netstandard2.1\integrity\oU0moF6IIkna1pMoSD6Ze63s6aHfjCtUflz7xDmENPg=.hash
 C:\code\blazorapp2\obj\Debug\netstandard2.1\blazor\blazor.boot.json
-C:\code\blazorapp2\obj\Debug\netstandard2.1\integrity\6pjcGKidn_aztpGolAfmCb8cNNDz1kExMEckeIDsnTw=.hash
 C:\code\blazorapp2\obj\Debug\netstandard2.1\compressed\_framework\_bin\blazorapp2.dll.gz
 C:\code\blazorapp2\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
 C:\code\blazorapp2\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
@@ -357,3 +354,8 @@ C:\code\blazorapp2\obj\Debug\netstandard2.1\staticwebassets\blazorapp2.StaticWeb
 C:\code\blazorapp2\obj\Debug\netstandard2.1\staticwebassets\blazorapp2.StaticWebAssets.xml
 C:\code\blazorapp2\obj\Debug\netstandard2.1\blazorapp2.dll
 C:\code\blazorapp2\obj\Debug\netstandard2.1\blazorapp2.pdb
+C:\code\BlazorApp2\obj\Debug\netstandard2.1\RazorDeclaration\Pages\MessageToMe.razor.g.cs
+C:\code\BlazorApp2\obj\Debug\netstandard2.1\Razor\Pages\MessageToMe.razor.g.cs
+C:\code\BlazorApp2\obj\Debug\netstandard2.1\integrity\giEBcZSLfoug63P12iFtOGwUW4SgY4VEvQhika1Wj3s=.hash
+C:\code\BlazorApp2\obj\Debug\netstandard2.1\integrity\KyGTeWS2JN3ke3-2hxsXkihuVii33KifgtiP7n5jHlE=.hash
+C:\code\BlazorApp2\obj\Debug\netstandard2.1\integrity\QveUxpdSzp8zRcdKbQDH6Rq2ptG7ezzTWaBz0mkJEQ8=.hash
