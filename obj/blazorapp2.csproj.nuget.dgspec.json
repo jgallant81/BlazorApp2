@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\code\\blazorapp2\\blazorapp2.csproj": {}
+    "C:\\code\\BlazorApp2\\blazorapp2.csproj": {}
   },
   "projects": {
-    "C:\\code\\blazorapp2\\blazorapp2.csproj": {
+    "C:\\code\\BlazorApp2\\blazorapp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\code\\blazorapp2\\blazorapp2.csproj",
+        "projectUniqueName": "C:\\code\\BlazorApp2\\blazorapp2.csproj",
         "projectName": "blazorapp2",
-        "projectPath": "C:\\code\\blazorapp2\\blazorapp2.csproj",
+        "projectPath": "C:\\code\\BlazorApp2\\blazorapp2.csproj",
         "packagesPath": "C:\\Users\\10019868\\.nuget\\packages\\",
-        "outputPath": "C:\\code\\blazorapp2\\obj\\",
+        "outputPath": "C:\\code\\BlazorApp2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\10019868\\AppData\\Roaming\\NuGet\\NuGet.Config",

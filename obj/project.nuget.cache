@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "muze5Hj/W3VCZRTXutf0Qejcg5WORS/OpgVaNFBTTAYRVGsQZ+gt9vouIPNOi1ntTHakCafnOU89+jlunMlYQA==",
+  "dgSpecHash": "20Zr7PwJdaNfiaqm3XSRYwXXlRe263/g4Tej7UquOIe1z6NVwqbN94DzphNzEYQ9uYy876eI9X3xt9jPQe3smA==",
   "success": true,
-  "projectFilePath": "C:\\code\\blazorapp2\\blazorapp2.csproj",
+  "projectFilePath": "C:\\code\\BlazorApp2\\blazorapp2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\10019868\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.3\\microsoft.aspnetcore.authorization.3.1.3.nupkg.sha512",
     "C:\\Users\\10019868\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.3\\microsoft.aspnetcore.components.3.1.3.nupkg.sha512",
